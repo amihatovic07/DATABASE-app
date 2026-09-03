@@ -1,4 +1,4 @@
-# BazePodataka-APP
+# DATABASE-APP
 
 ## Mini Relational Database Management System in C++
 
