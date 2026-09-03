@@ -1,5 +1,0 @@
-ime;cijena;godine;kvaliteta
-bmw a4;125000;2014;9.3
-mercedes benz;2015;1999;3.2
-porsche cayenne;75000;2019;7
-8;90000;2011;8.7
